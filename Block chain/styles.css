@@ -1,7 +1,7 @@
 body{
 background-image:url('cryptocurrency.jfif');
-background-size:cover;
 background-attachment:fixed;
+background-size:100%;
 }
 h1{
 font-size:50px;
@@ -16,7 +16,7 @@ color:white;
 p{
 font-size: 16px;
 font-family: 'Times New Roman', serif;
-color:rgba(255,255,0,0.7);
+color:rgba(255,255,255,0.7);
 }
 a:link{
 background-color:rgba(255,255,0,0.8);
@@ -28,6 +28,7 @@ float:right;
 a:hover{
 background-color:rgba(255,255,255,1);
 text-decoration:underline;
+color:black;
 }
 blockquote{
 font-size: 16px;
